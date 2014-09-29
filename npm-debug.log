@@ -1,0 +1,141 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install', 'jquery', '1.10.2' ]
+2 info using npm@1.4.3
+3 info using node@v0.10.26
+4 verbose cache add [ 'jquery', null ]
+5 verbose cache add name=undefined spec="jquery" args=["jquery",null]
+6 verbose parsed url { protocol: null,
+6 verbose parsed url   slashes: null,
+6 verbose parsed url   auth: null,
+6 verbose parsed url   host: null,
+6 verbose parsed url   port: null,
+6 verbose parsed url   hostname: null,
+6 verbose parsed url   hash: null,
+6 verbose parsed url   search: null,
+6 verbose parsed url   query: null,
+6 verbose parsed url   pathname: 'jquery',
+6 verbose parsed url   path: 'jquery',
+6 verbose parsed url   href: 'jquery' }
+7 verbose cache add [ '1.10.2', null ]
+8 verbose cache add name=undefined spec="1.10.2" args=["1.10.2",null]
+9 verbose parsed url { protocol: null,
+9 verbose parsed url   slashes: null,
+9 verbose parsed url   auth: null,
+9 verbose parsed url   host: null,
+9 verbose parsed url   port: null,
+9 verbose parsed url   hostname: null,
+9 verbose parsed url   hash: null,
+9 verbose parsed url   search: null,
+9 verbose parsed url   query: null,
+9 verbose parsed url   pathname: '1.10.2',
+9 verbose parsed url   path: '1.10.2',
+9 verbose parsed url   href: '1.10.2' }
+10 silly lockFile 6f2ab963-jquery jquery
+11 verbose lock jquery /Users/liubo/.npm/6f2ab963-jquery.lock
+12 silly lockFile c8d69734-1-10-2 1.10.2
+13 verbose lock 1.10.2 /Users/liubo/.npm/c8d69734-1-10-2.lock
+14 silly lockFile c8d69734-1-10-2 1.10.2
+15 silly lockFile c8d69734-1-10-2 1.10.2
+16 silly lockFile 6f2ab963-jquery jquery
+17 silly lockFile 6f2ab963-jquery jquery
+18 verbose addNamed [ '1.10.2', '' ]
+19 verbose addNamed [ null, '*' ]
+20 silly lockFile 3a8ca1c1-1-10-2 1.10.2@
+21 verbose lock 1.10.2@ /Users/liubo/.npm/3a8ca1c1-1-10-2.lock
+22 verbose addNamed [ 'jquery', '' ]
+23 verbose addNamed [ null, '*' ]
+24 silly lockFile 039e748d-jquery jquery@
+25 verbose lock jquery@ /Users/liubo/.npm/039e748d-jquery.lock
+26 silly addNameRange { name: '1.10.2', range: '*', hasData: false }
+27 verbose url raw 1.10.2
+28 verbose url resolving [ 'https://registry.npmjs.org/', './1.10.2' ]
+29 verbose url resolved https://registry.npmjs.org/1.10.2
+30 info trying registry request attempt 1 at 14:27:58
+31 http GET https://registry.npmjs.org/1.10.2
+32 silly addNameRange { name: 'jquery', range: '*', hasData: false }
+33 verbose url raw jquery
+34 verbose url resolving [ 'https://registry.npmjs.org/', './jquery' ]
+35 verbose url resolved https://registry.npmjs.org/jquery
+36 info trying registry request attempt 1 at 14:27:58
+37 verbose etag "84PIJ8FQ65WMU30Q6P88NB8LO"
+38 http GET https://registry.npmjs.org/jquery
+39 http 304 https://registry.npmjs.org/jquery
+40 silly registry.get cb [ 304,
+40 silly registry.get   { date: 'Mon, 29 Sep 2014 06:27:59 GMT',
+40 silly registry.get     server: 'Apache',
+40 silly registry.get     via: '1.1 varnish',
+40 silly registry.get     'last-modified': 'Mon, 29 Sep 2014 06:27:59 GMT',
+40 silly registry.get     'cache-control': 'max-age=60',
+40 silly registry.get     etag: '"84PIJ8FQ65WMU30Q6P88NB8LO"',
+40 silly registry.get     'x-served-by': 'cache-ty66-TYO',
+40 silly registry.get     'x-cache': 'HIT',
+40 silly registry.get     'x-cache-hits': '1',
+40 silly registry.get     'x-timer': 'S1411972079.546969,VS0,VE177',
+40 silly registry.get     vary: 'Accept',
+40 silly registry.get     'content-length': '0',
+40 silly registry.get     'keep-alive': 'timeout=10, max=50',
+40 silly registry.get     connection: 'Keep-Alive' } ]
+41 verbose etag jquery from cache
+42 silly addNameRange number 2 { name: 'jquery', range: '*', hasData: true }
+43 silly addNameRange versions [ 'jquery',
+43 silly addNameRange   [ '1.5.1',
+43 silly addNameRange     '1.6.2',
+43 silly addNameRange     '1.6.3',
+43 silly addNameRange     '1.7.2',
+43 silly addNameRange     '1.7.3',
+43 silly addNameRange     '1.8.2',
+43 silly addNameRange     '1.8.3',
+43 silly addNameRange     '2.1.0-beta2',
+43 silly addNameRange     '2.1.0-beta3',
+43 silly addNameRange     '1.11.0-beta3',
+43 silly addNameRange     '1.11.0-rc1',
+43 silly addNameRange     '2.1.0-rc1',
+43 silly addNameRange     '1.11.0',
+43 silly addNameRange     '2.1.0',
+43 silly addNameRange     '2.1.1-beta1',
+43 silly addNameRange     '1.11.1-beta1',
+43 silly addNameRange     '2.1.1-rc1',
+43 silly addNameRange     '1.11.1-rc1',
+43 silly addNameRange     '2.1.1-rc2',
+43 silly addNameRange     '1.11.1-rc2',
+43 silly addNameRange     '2.1.1',
+43 silly addNameRange     '1.11.1',
+43 silly addNameRange     '1.9.1' ] ]
+44 verbose addNamed [ 'jquery', '2.1.1' ]
+45 verbose addNamed [ '2.1.1', '2.1.1' ]
+46 silly lockFile d79e7587-jquery-2-1-1 jquery@2.1.1
+47 verbose lock jquery@2.1.1 /Users/liubo/.npm/d79e7587-jquery-2-1-1.lock
+48 silly lockFile d79e7587-jquery-2-1-1 jquery@2.1.1
+49 silly lockFile d79e7587-jquery-2-1-1 jquery@2.1.1
+50 silly lockFile 039e748d-jquery jquery@
+51 silly lockFile 039e748d-jquery jquery@
+52 http 404 https://registry.npmjs.org/1.10.2
+53 silly registry.get cb [ 404,
+53 silly registry.get   { date: 'Mon, 29 Sep 2014 06:28:00 GMT',
+53 silly registry.get     server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+53 silly registry.get     'content-type': 'application/json',
+53 silly registry.get     'cache-control': 'max-age=0',
+53 silly registry.get     'content-length': '52',
+53 silly registry.get     'accept-ranges': 'bytes',
+53 silly registry.get     via: '1.1 varnish',
+53 silly registry.get     age: '0',
+53 silly registry.get     'x-served-by': 'cache-ty67-TYO',
+53 silly registry.get     'x-cache': 'MISS',
+53 silly registry.get     'x-cache-hits': '0',
+53 silly registry.get     'x-timer': 'S1411972079.552338,VS0,VE503',
+53 silly registry.get     'keep-alive': 'timeout=10, max=50',
+53 silly registry.get     connection: 'Keep-Alive' } ]
+54 silly lockFile 3a8ca1c1-1-10-2 1.10.2@
+55 silly lockFile 3a8ca1c1-1-10-2 1.10.2@
+56 error 404 '1.10.2' is not in the npm registry.
+56 error 404 You should bug the author to publish it
+56 error 404
+56 error 404 Note that you can also install from a
+56 error 404 tarball, folder, or http url, or git url.
+57 error System Darwin 13.3.0
+58 error command "node" "/usr/local/bin/npm" "install" "jquery" "1.10.2"
+59 error cwd /Users/liubo/blog/simonliubo.github.com
+60 error node -v v0.10.26
+61 error npm -v 1.4.3
+62 error code E404
+63 verbose exit [ 1, true ]
