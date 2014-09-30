@@ -83,7 +83,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : lb
+      short_name : simonliubo
     livefyre :
       site_id : 123
     intensedebate :
