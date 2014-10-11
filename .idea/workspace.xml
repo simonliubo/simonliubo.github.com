@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b7fe11f-c5cd-4263-8a3a-525534030c82" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/pages/2014-09-29-page01.md" afterPath="$PROJECT_DIR$/_posts/pages/2014-09-29-page01.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/pages/2014-09-30-page01.md" afterPath="$PROJECT_DIR$/_posts/pages/2014-09-30-page01.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/pages/2014-10-09-page01.md" afterPath="$PROJECT_DIR$/_posts/pages/2014-10-09-page01.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css" afterPath="$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="simonliubo.github.com.iws" />
@@ -41,7 +38,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="20" selection-start="19860" selection-end="19860" vertical-scroll-proportion="0.39968652" vertical-offset="105" max-vertical-offset="1500">
+            <state line="39" column="1" selection-start="48605" selection-end="48605" vertical-scroll-proportion="0.9169279" vertical-offset="0" max-vertical-offset="1500">
               <folding />
             </state>
           </provider>
@@ -64,7 +61,6 @@
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/_site/archive.html" />
         <option value="$PROJECT_DIR$/_includes/themes/bootstrap-3/default.html" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/archive.html" />
         <option value="$PROJECT_DIR$/categories.html" />
@@ -74,11 +70,12 @@
         <option value="$PROJECT_DIR$/tags.html" />
         <option value="$PROJECT_DIR$/_includes/JB/tags_list" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css" />
         <option value="$PROJECT_DIR$/_posts/pages/2014-10-11-page01.md" />
         <option value="$PROJECT_DIR$/_posts/pages/2014-09-30-page01.md" />
         <option value="$PROJECT_DIR$/_posts/pages/2014-10-09-page01.md" />
         <option value="$PROJECT_DIR$/_posts/pages/2014-09-29-page01.md" />
+        <option value="$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css" />
+        <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
   </component>
@@ -142,131 +139,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simonliubo.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simonliubo.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simonliubo.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simonliubo.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simonliubo.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simonliubo.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simonliubo.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simonliubo.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simonliubo.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simonliubo.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="_posts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simonliubo.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simonliubo.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -468,32 +345,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="41" selection-end="58" vertical-scroll-proportion="0.0952381" vertical-offset="0" max-vertical-offset="630" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="22" selection-start="152" selection-end="166" vertical-scroll-proportion="0.21428572" vertical-offset="0" max-vertical-offset="630" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/JB/setup">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="677" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/JB/posts_collate">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.3554217" vertical-offset="236" max-vertical-offset="900" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/JB/pages_list">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/archive.html">
@@ -509,16 +363,6 @@
     <entry file="file://$PROJECT_DIR$/_includes/JB/comments">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="677" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="677" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/themes/bootstrap-3/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="14" selection-start="161" selection-end="161" vertical-scroll-proportion="0.114854515" vertical-offset="0" max-vertical-offset="653" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/JB/categories_list">
@@ -539,11 +383,6 @@
     <entry file="file://$PROJECT_DIR$/_includes/JB/tags_list">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="31" selection-start="785" selection-end="785" vertical-scroll-proportion="0.56162244" vertical-offset="0" max-vertical-offset="641" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/themes/bootstrap-3/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="51" selection-start="730" selection-end="730" vertical-scroll-proportion="0.296875" vertical-offset="155" max-vertical-offset="795" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
@@ -608,9 +447,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/themes/bootstrap-3/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="14" selection-start="161" selection-end="161" vertical-scroll-proportion="0.114854515" vertical-offset="0" max-vertical-offset="653">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/themes/bootstrap-3/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="51" selection-start="730" selection-end="730" vertical-scroll-proportion="0.5390625" vertical-offset="0" max-vertical-offset="795">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/JB/pages_list">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="41" selection-end="58" vertical-scroll-proportion="0.091883615" vertical-offset="0" max-vertical-offset="653">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="677">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/JB/setup">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="677">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="6" selection-start="267" selection-end="267" vertical-scroll-proportion="0.27565083" vertical-offset="0" max-vertical-offset="653">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="20" selection-start="19860" selection-end="19860" vertical-scroll-proportion="0.39968652" vertical-offset="105" max-vertical-offset="1500">
+        <state line="39" column="1" selection-start="48605" selection-end="48605" vertical-scroll-proportion="0.9169279" vertical-offset="0" max-vertical-offset="1500">
           <folding />
         </state>
       </provider>
