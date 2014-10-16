@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b7fe11f-c5cd-4263-8a3a-525534030c82" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/autotest/2014-10-16-page01.md" afterPath="$PROJECT_DIR$/_posts/autotest/2014-10-16-page04.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/autotest/2014-10-16-page02.md" afterPath="$PROJECT_DIR$/_posts/autotest/2014-10-16-page01.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/autotest/2014-10-16-page03.md" afterPath="$PROJECT_DIR$/_posts/autotest/2014-10-16-page02.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/autotest/2014-10-16-page03.md" afterPath="$PROJECT_DIR$/_posts/autotest/2014-10-16-page03.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="simonliubo.github.com.iws" />
@@ -34,13 +38,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-10-16-page01.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page01.md">
+      <file leaf-file-name="2014-10-16-page04.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page04.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="20" selection-start="973" selection-end="973" vertical-scroll-proportion="0.6923077" vertical-offset="0" max-vertical-offset="650">
+            <state line="41" column="0" selection-start="925" selection-end="925" vertical-scroll-proportion="0.9461538" vertical-offset="0" max-vertical-offset="720">
               <folding />
             </state>
           </provider>
@@ -113,13 +117,13 @@
         <option value="$PROJECT_DIR$/_posts/pages/2014-10-15-page01.md" />
         <option value="$PROJECT_DIR$/_posts/autotest/2014-10-16-page02.md" />
         <option value="$PROJECT_DIR$/_posts/autotest/2014-10-16-page03.md" />
-        <option value="$PROJECT_DIR$/_posts/autotest/2014-10-16-page04.md" />
         <option value="$PROJECT_DIR$/_posts/autotest/2014-10-16-page05.md" />
         <option value="$PROJECT_DIR$/_posts/autotest/2014-10-16-page06.md" />
         <option value="$PROJECT_DIR$/_posts/autotest/2014-10-16-page07.md" />
         <option value="$PROJECT_DIR$/_posts/autotest/2014-10-16-page08.md" />
         <option value="$PROJECT_DIR$/_posts/autotest/2014-10-16-page09.md" />
         <option value="$PROJECT_DIR$/_posts/autotest/2014-10-16-page01.md" />
+        <option value="$PROJECT_DIR$/_posts/autotest/2014-10-16-page04.md" />
       </list>
     </option>
   </component>
@@ -687,7 +691,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page03.md">
+    <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page02.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
@@ -697,7 +701,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page02.md">
+    <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page01.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
@@ -707,7 +711,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page04.md">
+    <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page03.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
@@ -774,12 +778,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page01.md">
+    <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page04.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="20" selection-start="973" selection-end="973" vertical-scroll-proportion="0.6923077" vertical-offset="0" max-vertical-offset="650">
+        <state line="41" column="0" selection-start="925" selection-end="925" vertical-scroll-proportion="0.9461538" vertical-offset="0" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
