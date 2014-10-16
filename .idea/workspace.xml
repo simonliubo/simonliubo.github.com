@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b7fe11f-c5cd-4263-8a3a-525534030c82" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/readme/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="simonliubo.github.com.iws" />
@@ -29,40 +28,31 @@
       <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="17" selection-start="908" selection-end="935" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="2055">
+            <state line="37" column="3" selection-start="1263" selection-end="1263" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="2055">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-09-29-page01.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/pages/2014-09-29-page01.md">
+      <file leaf-file-name="2014-10-16-page01.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page01.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="19" selection-start="73" selection-end="81" vertical-scroll-proportion="-2.2222223" vertical-offset="0" max-vertical-offset="2730">
+            <state line="30" column="20" selection-start="973" selection-end="973" vertical-scroll-proportion="0.6923077" vertical-offset="0" max-vertical-offset="650">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-10-14-page09.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/pages/2014-10-14-page09.md">
+      <file leaf-file-name="2014-10-16-page09.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page09.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="596" column="4" selection-start="10261" selection-end="10261" vertical-scroll-proportion="0.84879726" vertical-offset="8446" max-vertical-offset="20025">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="1" selection-start="48605" selection-end="48605" vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="1500">
+            <state line="2" column="27" selection-start="44" selection-end="44" vertical-scroll-proportion="-1.1111112" vertical-offset="0" max-vertical-offset="1230">
               <folding />
             </state>
           </provider>
@@ -119,6 +109,17 @@
         <option value="$PROJECT_DIR$/_posts/patterns/2014-10-14-page08.md" />
         <option value="$PROJECT_DIR$/_posts/pages/2014-10-11-page03.md" />
         <option value="$PROJECT_DIR$/_posts/pages/2014-10-14-page09.md" />
+        <option value="$USER_HOME$/Working/ucd/mobile-assessment/release/css/mobile.css" />
+        <option value="$PROJECT_DIR$/_posts/pages/2014-10-15-page01.md" />
+        <option value="$PROJECT_DIR$/_posts/autotest/2014-10-16-page02.md" />
+        <option value="$PROJECT_DIR$/_posts/autotest/2014-10-16-page03.md" />
+        <option value="$PROJECT_DIR$/_posts/autotest/2014-10-16-page04.md" />
+        <option value="$PROJECT_DIR$/_posts/autotest/2014-10-16-page05.md" />
+        <option value="$PROJECT_DIR$/_posts/autotest/2014-10-16-page06.md" />
+        <option value="$PROJECT_DIR$/_posts/autotest/2014-10-16-page07.md" />
+        <option value="$PROJECT_DIR$/_posts/autotest/2014-10-16-page08.md" />
+        <option value="$PROJECT_DIR$/_posts/autotest/2014-10-16-page09.md" />
+        <option value="$PROJECT_DIR$/_posts/autotest/2014-10-16-page01.md" />
       </list>
     </option>
   </component>
@@ -185,6 +186,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simonliubo.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simonliubo.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simonliubo.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simonliubo.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="autotest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -200,6 +233,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/autotest" />
       <recent name="$PROJECT_DIR$/_posts/pages" />
       <recent name="$PROJECT_DIR$/_posts/patterns" />
     </key>
@@ -261,14 +295,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="774" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32907802" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -299,63 +333,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_site/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.890625" vertical-offset="570" max-vertical-offset="2640" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_theme_packages/the-program/_includes/themes/the-program/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="677" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="677" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/themes/bootstrap-3/settings.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="677" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/archive.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="6" selection-start="3198" selection-end="3198" vertical-scroll-proportion="0.1796875" vertical-offset="1670" max-vertical-offset="3015" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sitemap.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="677" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rss.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="677">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/JB/posts_collate">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.3554217" vertical-offset="236" max-vertical-offset="900" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/JB/analytics">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="677" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/JB/comments">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="677" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tags.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="24" selection-start="105" selection-end="118" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="405" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/JB/tags_list">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="31" selection-start="785" selection-end="785" vertical-scroll-proportion="0.56162244" vertical-offset="0" max-vertical-offset="641" />
@@ -372,13 +349,6 @@
     <entry file="file://$PROJECT_DIR$/_includes/themes/bootstrap-3/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="95" column="44" selection-start="3933" selection-end="3960" vertical-scroll-proportion="0.765625" vertical-offset="935" max-vertical-offset="1575" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="17" selection-start="908" selection-end="935" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2055">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/themes/bootstrap-3/page.html">
@@ -654,36 +624,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/pages/2014-09-29-page01.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="19" selection-start="73" selection-end="81" vertical-scroll-proportion="-2.2222223" vertical-offset="0" max-vertical-offset="2730">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/pages/2014-10-11-page03.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="1632" column="27" selection-start="33731" selection-end="33731" vertical-scroll-proportion="38.43014" vertical-offset="0" max-vertical-offset="24780">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="1" selection-start="48605" selection-end="48605" vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="1500">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Working/ucd/mobile-assessment/source/css/jquery.mobile.icons.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="795" selection-start="793" selection-end="795" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="638">
           <folding />
         </state>
       </provider>
@@ -698,12 +644,142 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Working/ucd/mobile-assessment/release/css/mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="106" selection-start="103" selection-end="106" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Working/ucd/mobile-assessment/source/css/jquery.mobile.icons.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="38" selection-start="38" selection-end="38" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
+          <folding>
+            <element signature="e#39#1089#2" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/themes/bootstrap-3/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="22" selection-start="49031" selection-end="49031" vertical-scroll-proportion="0.6325301" vertical-offset="585" max-vertical-offset="1500">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/pages/2014-09-29-page01.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="19" selection-start="73" selection-end="81" vertical-scroll-proportion="0.09419152" vertical-offset="0" max-vertical-offset="2730">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/pages/2014-10-14-page09.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="596" column="4" selection-start="10261" selection-end="10261" vertical-scroll-proportion="0.84879726" vertical-offset="8446" max-vertical-offset="20025">
+        <state line="596" column="4" selection-start="10261" selection-end="10261" vertical-scroll-proportion="14.034537" vertical-offset="0" max-vertical-offset="20025">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page03.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="3" selection-start="235" selection-end="235" vertical-scroll-proportion="0.3" vertical-offset="0" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page02.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="26" selection-start="43" selection-end="43" vertical-scroll-proportion="-1.1111112" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page04.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="177" selection-end="177" vertical-scroll-proportion="-7.2222223" vertical-offset="0" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page05.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="5" selection-start="1609" selection-end="1609" vertical-scroll-proportion="1.9153847" vertical-offset="0" max-vertical-offset="1395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page06.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="3" selection-start="205" selection-end="205" vertical-scroll-proportion="0.3" vertical-offset="0" max-vertical-offset="650">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="3" selection-start="1263" selection-end="1263" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="2055">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page07.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="19" selection-start="222" selection-end="222" vertical-scroll-proportion="0.3664495" vertical-offset="0" max-vertical-offset="2760">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page08.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="55" selection-start="297" selection-end="297" vertical-scroll-proportion="0.3" vertical-offset="0" max-vertical-offset="650">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page09.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="27" selection-start="44" selection-end="44" vertical-scroll-proportion="-1.1111112" vertical-offset="0" max-vertical-offset="1230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/autotest/2014-10-16-page01.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="20" selection-start="973" selection-end="973" vertical-scroll-proportion="0.6923077" vertical-offset="0" max-vertical-offset="650">
           <folding />
         </state>
       </provider>
